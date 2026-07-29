@@ -2,6 +2,10 @@
 
 Welcome — this repository is a living collection of hands-on cybersecurity projects built outside the classroom. It's organized by domain so you can jump straight to the area you care about.
 
+![License](https://img.shields.io/github/license/boris-create/Cybersecurity-Portfolio)
+![Last Commit](https://img.shields.io/github/last-commit/boris-create/Cybersecurity-Portfolio)
+![Repo Size](https://img.shields.io/github/repo-size/boris-create/Cybersecurity-Portfolio)
+
 ## About Me
 
 Recent graduate with a background in cybersecurity, building practical, real-world experience through independent projects. This repo is where that work lives — labs I've built myself, tools I've written, and write-ups from things I've broken, defended, or automated. I'm broadly interested across cybersecurity and still narrowing toward a specialization, so the projects here intentionally span multiple domains.
