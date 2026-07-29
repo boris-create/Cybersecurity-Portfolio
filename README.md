@@ -1,6 +1,10 @@
-# Cybersecurity Portfolio
+<div align="center">
 
-Welcome — this repository is a living collection of hands-on cybersecurity projects built outside the classroom. It's organized by domain so you can jump straight to the area you care about.
+# 🔐 Cybersecurity Portfolio
+
+Hands-on cybersecurity projects across network security, web app security, cloud, DFIR, and scripting — built independently as a recent grad entering the field.
+
+</div>
 
 ## About Me
 
@@ -36,7 +40,18 @@ Each folder below is a self-contained domain. Individual projects live in their 
 
 ## Tools & Technologies
 
-`Wireshark` `Nmap` `Burp Suite` `Python` `Bash` `Linux` `Git` `Kali Linux` `Splunk` `AWS`
+<div align="center">
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat&logo=nmap&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+
+</div>
 
 ## Project README Template
 
